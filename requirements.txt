@@ -1,0 +1,6 @@
+# Install in the existing local_gpu_env environment.
+streamlit>=1.38,<2.0
+transformers==4.46.3
+sentencepiece>=0.2.0
+pysbd==0.3.4
+# Keep your currently working PyTorch installation; do not reinstall it unnecessarily.

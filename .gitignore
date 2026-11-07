@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+local_gpu_env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Model weights
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.h5
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
